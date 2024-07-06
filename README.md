@@ -6,7 +6,7 @@ _**Features**_
 2.Synchronous and Asynchronous Functions: Demonstrates the use of both synchronous and asynchronous JavaScript functions for API calls.
 3.User-Friendly Interface: Clean and intuitive design for easy use.
 
-_**How to Use**_
+_**How to Use It**_
 1.Enter Amount: Input the amount you want to convert.
 2.Select Currencies: Choose the source and target currencies from the dropdown menus.
 3.Convert: Click the "Convert" button to get the converted amount instantly.
